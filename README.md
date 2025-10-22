@@ -4,6 +4,8 @@ An intelligent resume analysis tool that helps recruiters and hiring managers qu
 
 ## 🌟 Live Demo\
 
+
+
 **[Live demo!](https://job-recommendation-score-system.onrender.com/)** *(Deployed on Render - Free Tier)*
 
 > Note: The app may take a moment to wake up on first visit due to free tier limitations.
@@ -216,6 +218,7 @@ Found a bug or have a feature request? Please open an issue on GitHub:
 
 
 Made by Team shivamtawar1804 for better hiring decisions
+
 
 
 
